@@ -74,6 +74,6 @@
 			<url>http://localhost:8083/repository/SnapshotDemo/</url>
 		 </repository>
 	   </repositores>
-	 </distributionManagement>
+	 </distributionmanagement>
   </build>
 </project>
